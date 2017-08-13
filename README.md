@@ -14,6 +14,7 @@ As unscented Kalman filter creates sample points around current state estimate a
 ## Output
 
 RMSE for "obj_pose-laser-radar-synthetic-input.txt":
+
 0.0698414
 
 0.0827661
